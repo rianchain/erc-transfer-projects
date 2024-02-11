@@ -1,3 +1,5 @@
+this webApp decentalized for storing data  medical record.
+
 # DEMO :
 
 ![Cuplikan layar 2024-01-28 183418](https://github.com/rianchain/erc-transfer-projects/assets/142986591/726af63c-2ed4-4cc8-9eba-73e5ea5da046)
